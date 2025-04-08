@@ -1,0 +1,15 @@
+# Environment: Google Colab
+
+# Data manipulation and analysis
+pandas
+numpy
+
+# Data visualization
+matplotlib
+seaborn
+
+# Machine learning models and evaluation
+scikit-learn
+
+# Model saving and loading
+joblib
